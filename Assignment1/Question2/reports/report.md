@@ -13,5 +13,6 @@ The fourth visual shows that all subjects have a strong positive correlations. T
  ![alt text](Visual4.png)
 
 
-The fifth and final visual shows us that the two trend lines are almost idetical. When I calcuated the slop of each line the studentes who did no prep had a slope of .86 and the students who had completd the prep had a slope of .84. This is a .02 difference. So this shows that the test prep does not meaningfully impact the relationship between reading and math scores. Like previoulsy identified both math and reading scores were strongly postivley assoicated. We do also have to take into consideration that there were more students that did no prep than studnets that had completed prep, if the dataset had been more evenly distributed then maybe we would have seen a bigger difference reading and math scores. 
+The fifth and final visual shows us that the two trend lines are almost idetical. When I calcuated the slop of each line the studentes who did no prep had a slope of .86 and the students who had completd the prep had a slope of .84. This is a .02 difference. So this shows that the test prep does not meaningfully impact the relationship between reading and math scores. Like previoulsy identified both math and reading scores were strongly postivley assoicated. We do also have to take into consideration that there were more students that did no prep than studnets that had completed prep, if the dataset had been more evenly distributed then maybe we would have seen a bigger difference reading and math scores.
+
  ![alt text](Visual5.png)
